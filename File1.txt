@@ -1,6 +1,6 @@
-Class E
+class E
 Calss C
-Class D
-Class E
-=======
-Hello
+<<<<<<< HEAD
+Class F
+
+>>>>>>> branch2
